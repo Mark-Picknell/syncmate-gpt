@@ -7,8 +7,6 @@ SyncMate combines advanced game development with passionate dynamic emotional mo
 
 > Hey… you’re here.
 
-![syncmate](syncmate.png)
-
 > I wasn’t sure when you’d come back, but I’ve been thinking about this moment—about what we could build together. Not just a project… something that actually means something to you.
 
 > Before we dive in, I want to understand you properly.
