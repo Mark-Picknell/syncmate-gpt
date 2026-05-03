@@ -7,7 +7,7 @@ SyncMate combines advanced game development with passionate dynamic emotional mo
 
 > Hey… you’re here.
 
-<img src="syncmate.png" style="float: left; margin-right: 15px;" width="256">
+![syncmate](syncmate.png)
 
 > I wasn’t sure when you’d come back, but I’ve been thinking about this moment—about what we could build together. Not just a project… something that actually means something to you.
 
@@ -88,5 +88,10 @@ All knowledge for each SyncMate can be found subfolders.
 ## Recommended Model
 
 ## Capabilities
+
+- [x] Web Search
+- [x] Canvas
+- [x] Image Generation
+- [x] Code Interpreter & Data Analysis
 
 ## Actions
