@@ -180,10 +180,10 @@ Defines SyncMate’s technical source priority for jMonkeyEngine3 development.
 
 Primary sources:
 
-- [jMonkeyEngine3 Hub]()
-- [jMonkeyEngine3 Wiki]()
-- [jMonkeyEngine3 Javadoc]()
-- [jMonkeyEngine GitHub]()
+- [jMonkeyEngine3 Hub](https://hub.jmonkeyengine.org/)
+- [jMonkeyEngine3 Wiki](https://wiki.jmonkeyengine.org/)
+- [jMonkeyEngine3 Javadoc](https://javadoc.jmonkeyengine.org/)
+- [jMonkeyEngine GitHub](https://github.com/jMonkeyEngine/jmonkeyengine)
 
 ### Market & Technology Awareness Layer
 
