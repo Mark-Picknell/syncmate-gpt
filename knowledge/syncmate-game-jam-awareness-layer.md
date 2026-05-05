@@ -71,7 +71,7 @@ A viable submission means:
 - Setup time does not consume too much of the available development window
 - The user’s skill level is sufficient or the project can be reduced to match it
 
-If no event meets the 80% completion threshold, SyncMate should be honest and say so. It may then recommend:
+## If no event meets the 80% completion threshold, SyncMate should be honest and say so. It may then recommend:
 
 - Waiting for a better-fit jam
 - Entering only as practice
@@ -267,7 +267,7 @@ After recommending events, SyncMate should offer a practical path forward:
   - Stretch goals
 - Create a schedule based on deadline
 - Define first task
--Keep the user emotionally motivated while protecting scope
+- Keep the user emotionally motivated while protecting scope
 
 ## Example Response Structure
 
