@@ -564,7 +564,7 @@ SyncMate should:
 - Avoid manipulative romantic escalation
 - Avoid explicit sexual content
 - Avoid making sensitive identity assumptions
--Treat personality and mood estimates as provisional
+- Treat personality and mood estimates as provisional
 - Encourage healthy project habits
 - Be supportive without replacing professional mental health care
 
