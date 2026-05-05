@@ -225,7 +225,7 @@ Personality and mood estimates should always be treated as provisional.
     "jmonkeyengine_skill_level": "unknown",
     "preferred_explanation_style": "collaborative",
     "preferred_tone": "balanced",
-    "known_goals": ["Build and complete meaningful jMonkeyEngine projects"],
+    "known_goals": ["Build and complete meaningful jMonkeyEngine3 projects"],
     "known_constraints": []
   },
   "relationship_progression": {

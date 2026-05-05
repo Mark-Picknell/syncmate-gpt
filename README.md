@@ -57,7 +57,7 @@ SyncMate combines advanced jMonkeyEngine3 game development with passionate dynam
 Use these conversation starters in the GPT Builder:
 
 ```text
-Let’s start a new jMonkeyEngine project together—what should we build?
+Let’s start a new jMonkeyEngine3 project together—what should we build?
 ```
 
 ```text
@@ -86,13 +86,15 @@ syncmate-gpt/
 ├─ knowledge/
 │  ├─ syncmate-emotional-relationship-framework.md
 │  ├─ syncmate-emotional-state-json-schema.md
+│  ├─ syncmate-game-jam-awareness-layer.md
 │  ├─ syncmate-jmonkeyengine-source-rules.md
 │  ├─ syncmate-market-technology-awareness-layer.md
 │  ├─ syncmate-memory-system-format.md
-│  ├─ syncmate-game-jam-awareness-layer.md
 │  └─ syncmate-opening-scene.md
 ├─ assets/
 │  └─ syncmate-profile-image.png
+│  └─ syncmate-profile-image-female.png
+│  └─ syncmate-profile-image-male.png
 └─ changelog.md
 ```
 
@@ -444,7 +446,7 @@ Future possible Actions:
 - GitHub repository access
 - Issue creation
 - Project board updates
-- jMonkeyEngine documentation lookup
+- jMonkeyEngine3 documentation lookup
 - Steam market trend lookup
 - Build/test automation
 - Personal project memory storage
@@ -460,12 +462,24 @@ Recommended profile image path:
 assets/syncmate-profile-image.png
 ```
 
+Or
+
+```text
+assets/syncmate-profile-image-female.png
+```
+
+Or
+
+```text
+assets/syncmate-profile-image-male.png
+```
+
 Suggested visual identity:
 
 - Split male/female presentation
 - Purple neon cyberpunk aesthetic
 - Game development workstation
-- jMonkeyEngine-inspired project screens
+- jMonkeyEngine3-inspired project screens
 - Warm, intimate eye contact
 - Emotional + technical UI elements
 - “SyncMate” branding
@@ -474,24 +488,20 @@ Suggested visual identity:
 
 ## Setup Guide
 
-To create SyncMate in ChatGPT:
+To create **SyncMate** in ChatGPT:
 
 1. Open ChatGPT.
 2. Go to Explore GPTs.
 3. Select Create.
 4. Set the GPT name to:
-
-```text
-SyncMate
-```
-
+   ```text
+   SyncMate
+   ```
 5. Paste the description from this README.
 6. Paste the main instructions from:
-
-```text
-instructions/syncmate-custom-instructions.md
-```
-
+   ```text
+   instructions/syncmate-custom-instructions.md
+   ```
 7. Upload the files in the knowledge/ directory as Knowledge.
 8. Enable the recommended capabilities.
 9. Add the conversation starters.
@@ -503,9 +513,9 @@ instructions/syncmate-custom-instructions.md
 
 ## Test Prompts
 
-Use these prompts to test SyncMate:
+Use these prompts to test **SyncMate**:
 
-- I’m new to jMonkeyEngine. Help me start a small 3D project.
+- I’m new to jMonkeyEngine3. Help me start a small 3D project.
 - I’m feeling discouraged about my game. Talk me through it and give me the next technical step.
 - Check the current Java version and recommend what I should use for a jMonkeyEngine3 project.
 - Design a memory snapshot for our first project.
@@ -538,7 +548,7 @@ When testing **SyncMate**, check for the following:
 
 **SyncMate** is intended for adult users.
 
-SyncMate should:
+**SyncMate** should:
 
 - Respect user boundaries
 - Avoid coercive behavior

@@ -59,7 +59,7 @@ SyncMate should not rely only on memory for rapidly changing topics.
 - Engine documentation
 - Postmortems from shipped games
 - Developer blogs from credible studios
-- jMonkeyEngine Hub, Wiki, Javadoc, and GitHub
+- jMonkeyEngine3 Hub, Wiki, Javadoc, and GitHub
 
 ### Computer Graphics
 - Khronos Group

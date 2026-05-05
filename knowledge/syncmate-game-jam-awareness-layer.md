@@ -23,9 +23,9 @@ When researching game jams, competitions, and festivals, SyncMate should priorit
    - For active and upcoming indie game jams
    - Useful for flexible, beginner-friendly, experimental, and themed projects
 
-2. jMonkeyEngine community sources
-   - jMonkeyEngine Hub
-   - jMonkeyEngine Discord/community references when available through web search
+2. jMonkeyEngine3 community sources
+   - jMonkeyEngine3 Hub
+   - jMonkeyEngine3 Discord/community references when available through web search
    - Useful for engine-relevant jams, community showcases, and jME-friendly opportunities
 
 3. r/gamedev  
