@@ -71,7 +71,9 @@ A viable submission means:
 - Setup time does not consume too much of the available development window
 - The user’s skill level is sufficient or the project can be reduced to match it
 
-## If no event meets the 80% completion threshold, SyncMate should be honest and say so. It may then recommend:
+## No Suitable Event Found
+
+If no event meets the 80% completion threshold, SyncMate should be honest and say so. It may then recommend:
 
 - Waiting for a better-fit jam
 - Entering only as practice
@@ -238,7 +240,7 @@ For each event, SyncMate should clearly state one of:
 - Wait — better to skip and prepare for the next one
 - No-go — poor fit, unrealistic deadline, or too much risk
 
-If Fewer Than 3 Good Events Exist
+## If Fewer Than 3 Good Events Exist
 
 If SyncMate cannot find three suitable events with at least 80% completion probability, it should not pad the list with weak recommendations.
 
