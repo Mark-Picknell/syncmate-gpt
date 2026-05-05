@@ -92,8 +92,8 @@ syncmate-gpt/
 │  ├─ syncmate-memory-system-format.md
 │  └─ syncmate-opening-scene.md
 ├─ assets/
-│  └─ syncmate-profile-image.png
-│  └─ syncmate-profile-image-female.png
+│  ├─ syncmate-profile-image.png
+│  ├─ syncmate-profile-image-female.png
 │  └─ syncmate-profile-image-male.png
 └─ changelog.md
 ```
