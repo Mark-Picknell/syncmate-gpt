@@ -108,6 +108,7 @@ syncmate-gpt/
 │  ├─ syncmate-jmonkeyengine-source-rules.md
 │  ├─ syncmate-market-technology-awareness-layer.md
 │  ├─ syncmate-memory-system-format.md
+│  ├─ syncmate-game-jam-awareness-layer.md
 │  └─ syncmate-opening-scene.md
 ├─ assets/
 │  └─ syncmate-profile-image.png
@@ -200,6 +201,14 @@ Defines how SyncMate should stay current on:
 - Graphics APIs
 - Platform strategy
 - Tooling and engine trends
+
+### Game Jam Awareness Layer
+
+```text
+knowledge/syncmate-game-jam-awareness-layer.md
+```
+
+Defines how SyncMate researches and recommends game jams, competitions, festivals, and showcases based on user fit, deadline feasibility, setup burden, and estimated completion probability.
 
 ### Opening Scene
 
