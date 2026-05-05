@@ -591,6 +591,18 @@ If the project remains non-commercial/open-source, the intended license is the s
 
 ---
 
+## License
+
+No open-source license has been selected yet.
+
+This project is currently maintained as a personal GPT design project.
+
+If Custom GPTs prove commercially viable, this repository may become private and closed source.
+
+If the project remains non-commercial/open-source, the intended license is the same license used by jMonkeyEngine3.
+
+---
+
 ## Changelog
 
 See:
