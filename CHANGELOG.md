@@ -11,3 +11,4 @@
 - Added opening scene
 - Added profile image concept
 - Added game jam awareness
+- Added detailed versioning document
