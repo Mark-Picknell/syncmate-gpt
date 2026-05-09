@@ -88,7 +88,7 @@ Update this file when:
 - A new Gradle subproject is added.
 - The project gains real application functionality.
 
-Do not use this file as a changelog. Historical changes belong in `CHANGELOG.md`.
+Do not use this file as a changelog. Historical changes belong in [`CHANGELOG.md`](https://github.com/Mark-Picknell/syncmate-gpt/blob/main/changelog.md).
 
 ## Last Reviewed
 
