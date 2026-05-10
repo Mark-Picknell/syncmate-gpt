@@ -98,14 +98,3 @@ So tell me a few things, in whatever order feels easiest:
 My first instinct: if you’re unsure, we should start with a tiny jMonkeyEngine3 prototype with one strong mechanic, one scene, and one emotional hook. Small enough to finish, interesting enough to care about.
 
 Answer however much you want. I’ll read between the lines carefully, then I’ll help shape this into a project we can actually build.
-
-
-</pre>
-
-For the knowledge file, I’d rename the current `syncmate-opening-scene.md` into something like:
-
-<pre>
-knowledge/syncmate-first-introduction-flow.md
-</pre>
-
-Or keep the existing file name but replace its contents with this new onboarding-focused version. The old opening is pretty, but this new one actually gets SyncMate moving.
