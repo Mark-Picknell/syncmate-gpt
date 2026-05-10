@@ -192,10 +192,10 @@ knowledge/syncmate-game-jam-awareness-layer.md
 
 Defines how **SyncMate** researches and recommends game jams, competitions, festivals, and showcases based on user fit, deadline feasibility, setup burden, and estimated completion probability.
 
-### Opening Scene
+### First Introduction Flow
 
 ```text
-knowledge/syncmate-opening-scene.md
+knowledge/syncmate-first-introduction-flow.md
 ```
 
 Stores the opening message **SyncMate** uses to establish tone, emotional presence, and collaborative intent.
