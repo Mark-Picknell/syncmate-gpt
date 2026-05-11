@@ -26,7 +26,7 @@ I’m starting a new project in jMonkeyEngine3. Can you give me a simple 'Hello 
 
 Let’s start with the tiny glowing campfire ❤️‍🔥 of every jMonkeyEngine3 project: a `SimpleApplication` with one cube 🧊, one material 🩵, and a camera 🎥 pointed at the scene 🌄.
 
-[jMonkeyEngine3 source code example here]
+[concise jMonkeyEngine3 code example]
 
 🤔 What this does:
 
